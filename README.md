@@ -19,11 +19,11 @@ For classification, if any of the three methods SPE, T2, SOM-MQE, predicted that
 <br />
 
 ### SPE for Etcher 2<br />
-![SPE for Etcher 2](/SPE_Reuslts_Experiment_2.PNG)
+![SPE for Etcher 2](/SPE_Results_Experiment_2.PNG)
 <br />
 
 ### SPE for Etcher 3<br />
-![SPE for Etcher 3](/SPE_Reuslts_Experiment_3.PNG)
+![SPE for Etcher 3](/SPE_Results_Experiment_3.PNG)
 <br />
 
 ## **Results for T2 -->**<br />
