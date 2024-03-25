@@ -11,5 +11,7 @@ From each feature, time domain characteristics like maximum, minimum, mean, kurt
 For classification, if any of the three methods SPE, T2, SOM-MQE, predicted that the etcher is faulty then we lablelled that etcher run as faulty.
 <br />
 ## Results for SPE -->
+<br />
 ### SPE for Etcher 1
+<br />
 ![SPE for Etcher 1](/SPE Reuslts - Experiment 1.PNG)
