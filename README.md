@@ -4,11 +4,11 @@ A health assessment model is built for detecting anamolus conditions of the give
 <br />
 This was done using Squared Predicted Error(SPE), Hotelling's T-squared statistics(T2), and Self-Organising Map Minimum Quantization Error (SOM-MQE).<br />
 
-![Process Flow Chart](/Process_flow_chart.PNG)
+![Process Flow Chart](/Process_flow_chart_1.PNG)
 <br />
 From each feature, time domain characteristics like maximum, minimum, mean, kurtosis, standard deviation, skewness, peak to peak are extracted and used for Principal component analysis. First five principal components were selected as they accounted for almost 90% of variation in the data.
 <br />
-![Raw Data Visualization](/raw_data_visualization.PNG)
+![Raw Data Visualization](/raw_data_visualization_1.PNG)
 <br />
 For classification, if any of the three methods SPE, T2, SOM-MQE, predicted that the etcher is faulty then we lablelled that etcher run as faulty.<br />
 
